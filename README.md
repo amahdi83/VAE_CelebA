@@ -105,13 +105,13 @@ This notebook will:
     - KL Divergence: Measures deviation from a standard normal distribution
 
 - **Hyperparameters:**
-    - `img_size`: 128x128
-    - `capacity`: Number of channels in convolutional layers
-    - `latent_dims`: 32
-    - `learning_rate`: 0.001
-    - `n_epochs`: 10
-    - `variational_beta`: 1
-    - `batch_size`: 32
+  - `img_size`: `128x128`
+  - `capacity`: Number of channels in convolutional layers
+  - `latent_dims`: `32`
+  - `learning_rate`: `0.001`
+  - `n_epochs`: `10`
+  - `variational_beta`: `1`
+  - `batch_size`: `32`
 
 - **Training Images:** 10,000 images are used for training to balance computational efficiency and model performance.
 
