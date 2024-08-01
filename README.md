@@ -2,7 +2,7 @@
 
 This repository contains a Jupyter Notebook implementation of a Variational Autoencoder (VAE) model for generating and reconstructing images from the CelebA dataset. The VAE model is designed to perform image reconstruction and latent space interpolation.
 
-![Alt Text](output.gif)
+![Alt Text](output.jpg)
 
 
 ## Table of Contents
@@ -128,5 +128,5 @@ Feel free to fork the repository and submit pull requests. For issues or suggest
 
 
 ## Acknowledgments
-- CelebA dataset: MMLAB
-- PyTorch and torchvision libraries
+- CelebA dataset: [MMLAB](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html).
+- PyTorch and torchvision libraries.
