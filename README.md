@@ -31,6 +31,7 @@ The notebook includes the following main components:
 ## Requirements
 
 - Python 3.7 or higher
+- TensorFlow 2.0 or higher
 - PyTorch 1.10 or higher
 - torchvision
 - numpy
